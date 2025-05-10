@@ -1,0 +1,35 @@
+body {
+  font-family: 'Lucida Console';
+  background: linear-gradient(to top right, #d0f0ff, #fce4ec);
+  padding: 30px;
+  color: #334;
+  line-height: 1.6;
+}
+
+h1, h2 {
+  background-color: #8FBC8F;
+  text-shadow: 0px 0px 0px rgba(255, 255, 255);
+  font-size: 50px;
+}
+
+p, li {
+  font-size: 20px;
+}
+
+ul {
+  background-color: #fff1e0;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(255, 235, 59, 0.3);
+}
+
+.img {
+  border-radius: 20px;
+  display: block;
+  margin: 20px auto;
+}
+.box {
+  background: url('https://www.google.com/imgres?q=green&imgurl=https%3A%2F%2Fwww.polytec.com.my%2Fimg%2Fproducts%2Fvert-green.jpg&imgrefurl=https%3A%2F%2Fwww.polytec.com.my%2Fcolour%2Fvert-green%2F&docid=xvoNWj12O2HMtM&tbnid=Ogjd8NqxEwkvQM&vet=12ahUKEwi4pOzJz5aNAxUVRPEDHW9UC2kQM3oECGMQAA..i&w=960&h=960&hcb=2&ved=2ahUKEwi4pOzJz5aNAxUVRPEDHW9UC2kQM3oECGMQAA') no-repeat cover;
+   background-color: rgba(0, 0, 0, 0.10);
+   background-blend-mode: lighten;
+}
